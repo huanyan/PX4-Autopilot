@@ -229,7 +229,7 @@ PARAM_DEFINE_INT32(UAVCAN_LGT_LAND, 0);
  * @reboot_required true
  * @group UAVCAN
  */
-PARAM_DEFINE_INT32(UAVCAN_PUB_ARM, 0);
+PARAM_DEFINE_INT32(UAVCAN_PUB_ARM, 1);
 
 /**
  * publish RTCM stream
